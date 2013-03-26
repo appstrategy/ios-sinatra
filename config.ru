@@ -1,2 +1,2 @@
-require '/sushi.json'
+require './api'
 run Sinatra::Application
